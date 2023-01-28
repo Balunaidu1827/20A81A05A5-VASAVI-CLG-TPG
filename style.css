@@ -1,0 +1,28 @@
+#top {
+ background-color: rgb(236, 255, 22);
+ width: 300px;
+ border: 15px solid rgb(255, 0, 0);
+ padding: 50px;
+ margin: 200px;
+}
+img {
+    width: 290px;
+    border: 15px solid rgb(75, 236, 131);
+    padding: 45px;
+    margin: 190px;
+   }
+#water {
+    background-color: rgb(135, 219, 230);
+    font-family: "Brush Script MT",Cursive;
+}
+
+body{
+    background-image: url(nature.jpg);
+    background-size: cover;
+    width: fit-content;
+    height: fit-content;
+    font-family: monospace;
+    
+}
+
+
